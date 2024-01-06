@@ -11,8 +11,9 @@ ESP32 Sensorizado: El corazón de Gnoberto es un microcontrolador ESP32 que inte
 
 ### Prototipo Circuito
 <p align="center">
-  <img src="Pagina_web.jpeg" alt="Página Web" width="300">
+  <img src="Prototipo_circuito.jpeg" alt="Prototipo Circuito" width="100">
 </p>
+
 
 Conectividad a la Nube: Gnoberto se conecta a una base de datos MySQL a través de una interfaz web, permitiendo la recopilación y visualización en tiempo real de datos cruciales para el crecimiento de las plantas.
 
@@ -20,7 +21,7 @@ Interfaz Web Intuitiva: Una interfaz web diseñada de manera amigable proporcion
 
 ### Página Web
 <p align="center">
-  <img src="Prototipo_circuito.jpeg" alt="Prototipo Circuito" width="300">
+  <img src="Pagina_web.jpeg" alt="Página Web" width="500">
 </p>
 
 Notificaciones LED: Gnoberto alerta a los usuarios sobre condiciones ambientales inadecuadas mediante un LED indicador, brindando una retroalimentación visual instantánea.
