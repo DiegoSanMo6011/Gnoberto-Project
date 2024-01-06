@@ -11,7 +11,7 @@ ESP32 Sensorizado: El corazón de Gnoberto es un microcontrolador ESP32 que inte
 
 ### Prototipo Circuito
 <p align="center">
-  <img src="Prototipo_circuito.jpeg" alt="Prototipo Circuito" width="100">
+  <img src="Prototipo_circuito.jpeg" alt="Prototipo Circuito" width="200">
 </p>
 
 
